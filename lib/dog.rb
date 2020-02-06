@@ -9,5 +9,5 @@ class Dog
   end
   
   def .bark 
-    purs "woof!"
+    puts "woof!"
   end 
