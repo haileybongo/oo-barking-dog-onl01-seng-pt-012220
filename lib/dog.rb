@@ -8,4 +8,6 @@ class Dog
     @new_name
   end
   
-  def
+  def .bark 
+    purs "woof!"
+  end 
